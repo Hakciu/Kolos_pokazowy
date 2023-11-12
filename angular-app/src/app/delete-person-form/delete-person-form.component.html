@@ -1,0 +1,7 @@
+<form (ngSubmit)="onSubmit()">
+  <div>
+    <label for="personId">ID osoby do usunięcia:</label>
+    <input type="number" id="personId" [(ngModel)]="personId" name="personId" />
+  </div>
+  <button type="submit">Usuń osobę</button>
+</form>
