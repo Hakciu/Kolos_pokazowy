@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82x233qDBlgPbTtleXUyAeXZOF7BQVzy+MeuwE0KInia7wfyN1/03GfHEX/PNFx8i9TF+yvGFkMztWftSaDTVg==",
+  "dgSpecHash": "8eATx9ZP+xRoixbF6llE41sttfBxrAiUIkiRJvtLHun8YW1muMjZOuvsc7drkIYAr4LnfWOJeU+Atgndh4GU8g==",
   "success": true,
-  "projectFilePath": "D:\\Studia\\ZPI\\Kolos_pokazowy\\API\\API.csproj",
+  "projectFilePath": "D:\\Studia\\ZPI\\Kolos\\Kolos_pokazowy\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JJani\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JJani\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
